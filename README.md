@@ -99,7 +99,5 @@ The system integrates with a **free external recipe API** and stores user data s
 
 ---
 
-## 📁 Frontend Folder Structure
-
 
 
